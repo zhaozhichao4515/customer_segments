@@ -1,4 +1,3 @@
-# 项目 3: 非监督学习
 ## 创建用户细分
 
 ### 安装
@@ -11,11 +10,9 @@
 
 你同样需要安装好相应软件使之能够运行[Jupyter Notebook](http://jupyter.org/)。
 
-优达学城推荐学生安装 [Anaconda](https：//www.continuum.io/downloads), 这是一个已经打包好的python发行版，它包含了我们这个项目需要的所有的库和软件。
-
 ### 代码
 
-初始代码包含在 `customer_segments.ipynb` 这个notebook文件中。这里面有一些代码已经实现好来帮助你开始项目，但是为了完成项目，你还需要实现附加的功能。
+初始代码包含在 `customer_segments.ipynb` 这个notebook文件中。
 
 ### 运行
 
